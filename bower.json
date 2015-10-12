@@ -1,0 +1,19 @@
+{
+  "name": "nicopocket",
+  "version": "0.0.0",
+  "authors": [
+    "abouthiroppy <yuta_hiroto@dwango.co.jp>"
+  ],
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
